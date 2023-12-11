@@ -1,0 +1,18 @@
+- Hi, I’m @jeffreyandle
+- I’m semi retired but still working with some developers.
+- I have worked in i4004, i8008, ... etc; MC6800, MC68000, PIC, TMS320, Arm, etc. as well as FORTRAN, C/C++/C#, MATLAB and assembly.
+- I am no longer actively coding, but still contribute in support of hardware projects.
+- I have not kept up with the myriad frameworks and prefer the challenge of wringing that last bit of speed/execution from a peripheral or MCU.
+- 
+- On the other hand I have debugged code that I never saw just knowing how the chip/peripheral worked and what the external issue was.
+- 
+- I am generally inept with github and used to use svn.  Bear with this old graybeard.
+- 
+- How to reach me ... No putting my email here but generally reachable on LinkedIn or Upwork, at least until I go full retired.
+- 
+- Recent HW projects:
+- Nordic and SiLabs BLE/ZGP transmitters powered by finite energy kinetic harvesters (and the harvesters).
+- Surface Acoustic Wave (SAW) sensors and passive wireless interrogators.
+- Axzon/RFMicron RFID sensors and sensor systems and their interrogators.
+- Renesas air power kit BLDC motor boards.
+- Electric power instrumentation for partial discharge detection and asset monitoring.
